@@ -1,0 +1,53 @@
+
+
+.custom-navbar {
+    background-color: #660099 !important;
+}
+
+.navbar {
+    width: 100%;
+    height: auto;
+    background-color: #660099 !important;
+    color: black;
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+
+
+
+
+div .img_Logo {
+    margin-top: -143px;
+
+}
+
+p{
+    text-align: center;
+    font-size: 2.5rem;
+}
+
+.alert{
+    width: 100%;
+    border: 1px solid transparent;
+    border-radius: 4px;
+}
+
+
+div .alert .alert-primary{
+    font-size: 4.5rem;
+    font-weight: 500;
+}
+
+.text_Index1{
+    width: 100%;
+    margin-top: 25px;
+    margin-left: 5px;
+} 
+
+
+button .btn .btn-danger{
+    width: 160px;
+    font-size: 16px;
+}
+

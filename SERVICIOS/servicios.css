@@ -1,0 +1,85 @@
+
+
+.img_Logo {
+   margin: 0;
+}
+
+.banner_Inicio {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+/* CSS */
+.banner_Inicio img {
+    height: 650px;
+}
+
+.titulo_Destinos {
+    margin-top: 25px;
+}
+
+
+
+.carousel-inner {
+
+    max-height: 550px;
+    margin-top: 15px;
+}
+
+.carousel-item img {
+    max-width: 100%;
+    height: auto;
+    margin-top:15px;
+}
+
+
+h2 {
+    color: #900C3F !important;
+}
+
+p {
+    font-size: 1.5rem;
+}
+
+.carousel-item h5{
+    font-size: 6rem;
+    color: rgb(230, 227, 233);
+    margin-bottom: 50px;
+
+}
+
+
+
+
+.carousel-caption {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%); 
+    background: rgba(0, 0, 0,);
+    display: flex; 
+    justify-content:center; 
+    align-items: center; 
+} 
+
+
+.video-container {
+    background-color: #b7ebf8ca; 
+    padding: 20px; 
+    margin-top: 20px; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center; 
+    flex-direction: column; 
+}
+
+.video-container h3 {
+    color: #900C3F; 
+}
+
+.video-container p {
+    color: #333;
+}

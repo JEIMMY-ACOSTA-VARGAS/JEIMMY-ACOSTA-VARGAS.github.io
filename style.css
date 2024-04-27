@@ -1,0 +1,76 @@
+
+.custom-navbar {
+    background-color: #660099 !important;
+}
+
+.navbar {
+    width: 100%;
+    height: auto;
+    background-color: #660099 !important;
+    color: black;
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+.dropdown-menu>li>a {
+    display: block;
+    padding: 8px 20px;
+
+    font-size: 20px;
+}
+
+div .img_Logo {
+    margin-top: -100px;
+
+}
+
+
+.text_Index {
+    width: 100%;
+    display: block;
+    margin-top: 5px;
+    margin-left: 5px;
+}
+
+.text_Index 
+h1,
+.text_home {
+    display: block;
+    width: 100%;
+    font-size: 3rem;
+    color: #900C3F !important;
+}
+
+
+
+.text_Index p {
+    margin: 35px;
+    display: block;
+    font-size: 1.5rem;
+    text-align: center;
+    font-weight: 400;
+    color: black;
+}
+
+
+.text_verificacion, p1 {
+    color: black;
+    display: block;
+    width: 100%;
+    font-size: 1.5rem;
+    margin-left: 13px;
+    margin-top: -20px;
+    font-weight: 500;
+    /* color: #154ccd; */
+    color:#900C3F !important;
+ 
+}
+
+.btn-danger,
+.btn-primary{
+width: 130px;
+height: 46px;
+margin-top: 15px;
+margin-left: 20px;
+}
+

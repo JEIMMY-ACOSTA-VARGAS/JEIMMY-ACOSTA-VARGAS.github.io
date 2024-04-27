@@ -1,0 +1,163 @@
+.custom-navbar {
+    background-color: #660099 !important;
+}
+
+.navbar {
+    width: 100%;
+    height: auto;
+    background-color: #660099 !important;
+    color: black;
+    font-size: 18px;
+    margin-left: 15px;
+}
+
+.dropdown-menu>li>a {
+    display: block;
+    padding: 8px 20px;
+    font-size: 20px;
+}
+
+
+
+.img_Logo {
+    margin-top: -143px;
+}
+
+main {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.container_Contact {
+    width: 100%;
+    margin-top: 125px;
+}
+
+.container_Contact,
+.box_Info {
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    align-content: center;
+}
+
+
+.title_Princ h1 {
+    font-size: 2.5rem;
+    color: darkred;
+    /* top: 10px; */
+    text-align: center;
+    margin-left: -8px;
+    align-content: center;
+    justify-content: center;
+}
+
+
+
+.box_Info {
+    display: flex;
+    outline: #900C3F solid 3px;
+    border-radius: 24px;
+    width: 51%;
+    height: 60px;
+    gap: 12px;
+    align-items: center;
+    /* flex-wrap: nowrap; */
+    align-content: center;
+    justify-content: center;
+    margin-left: 74px;
+}
+
+
+
+.text_Info1 p {
+    display: flex;
+    flex-direction: column;
+    font-size: 30px;
+    color: #900C3F;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    font-weight: 400;
+}
+
+.iconos_Info {
+    width: 100%;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+    flex-direction: row;
+    align-content: center;
+    justify-content: center;
+    flex-wrap: nowrap;
+}
+
+.medios_Contact {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 100%;
+    height: auto;
+    margin-top: 55px;
+    color: black;
+}
+
+
+
+
+
+.form_Contact {
+    width: 80%;
+    height: auto;
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.text_Intro {
+    color: #900C3F;
+    font-size: 24px;
+}
+
+form,
+label {
+    font-weight: 400;
+    /* Cambia el peso de la fuente a normal */
+    font-style: normal;
+    /* Cambia el estilo de la fuente a cursiva */
+    font-size: 16px;
+    /* Cambia el tamaño de la fuente según tus preferencias */
+    color: black;
+    /* Cambia el color del texto según tus preferencias */
+}
+
+.custom-label {
+    width: 100%;
+    /* Establece el ancho fijo del label */
+    /* height: 200px; */
+    /* display: inline-block; Permite que el label tenga un ancho fijo y se comporte como un bloque en línea */
+}
+
+textarea#comment.form-control {
+    position: absolute;
+    height: 120px;
+    width: 75%;
+}
+
+footer{
+    margin-top: 60px;
+}
+
+    p {
+
+        text-align: center;
+        font-size: 14px;
+        color: white;
+        font-family: sans-serif;
+    }
+
+    button,
+    .btn-primary {
+        margin-top: 20px;
+
+    }

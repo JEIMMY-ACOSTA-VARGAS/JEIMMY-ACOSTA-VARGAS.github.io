@@ -1,5 +1,4 @@
 
-
 .custom-navbar {
     background-color: #660099 !important;
 }
@@ -12,10 +11,6 @@
     font-size: 18px;
     margin-left: 15px;
 }
-
-
-
-
 
 div .img_Logo {
     margin-top: -143px;
@@ -33,7 +28,6 @@ p{
     border-radius: 4px;
 }
 
-
 div .alert .alert-primary{
     font-size: 4.5rem;
     font-weight: 500;
@@ -44,7 +38,6 @@ div .alert .alert-primary{
     margin-top: 25px;
     margin-left: 5px;
 } 
-
 
 button .btn .btn-danger{
     width: 160px;

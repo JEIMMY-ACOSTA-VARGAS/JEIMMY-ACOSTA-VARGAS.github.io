@@ -1,3 +1,4 @@
+
 .custom-navbar {
     background-color: #660099 !important;
 }
@@ -42,7 +43,6 @@ main {
     align-content: center;
 }
 
-
 .title_Princ h1 {
     font-size: 2.5rem;
     color: darkred;
@@ -52,8 +52,6 @@ main {
     align-content: center;
     justify-content: center;
 }
-
-
 
 .box_Info {
     display: flex;
@@ -68,8 +66,6 @@ main {
     justify-content: center;
     margin-left: 74px;
 }
-
-
 
 .text_Info1 p {
     display: flex;
@@ -103,10 +99,6 @@ main {
     color: black;
 }
 
-
-
-
-
 .form_Contact {
     width: 80%;
     height: auto;
@@ -122,20 +114,13 @@ main {
 form,
 label {
     font-weight: 400;
-    /* Cambia el peso de la fuente a normal */
     font-style: normal;
-    /* Cambia el estilo de la fuente a cursiva */
     font-size: 16px;
-    /* Cambia el tamaño de la fuente según tus preferencias */
     color: black;
-    /* Cambia el color del texto según tus preferencias */
 }
 
 .custom-label {
     width: 100%;
-    /* Establece el ancho fijo del label */
-    /* height: 200px; */
-    /* display: inline-block; Permite que el label tenga un ancho fijo y se comporte como un bloque en línea */
 }
 
 textarea#comment.form-control {
